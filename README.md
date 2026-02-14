@@ -29,4 +29,4 @@
 
 
 
-![image alt]https://github.com/JackManifoldTV/JackManifoldTV/blob/889204c70619fed874c9a4e05e50039c108bb074/waoooww.png  my  cool  lampert  design  dont  steal
+![image alt](https://github.com/JackManifoldTV/JackManifoldTV/blob/889204c70619fed874c9a4e05e50039c108bb074/waoooww.png)  my  cool  lampert  design  dont  steal
